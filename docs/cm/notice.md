@@ -4,4 +4,4 @@
   
 **절대 클릭해서 받으시면 안됩니다.**  
   
-피해사례 링크 : <http://www.helpme119.com/>  
+사례 : <http://www.helpme119.com/>  
