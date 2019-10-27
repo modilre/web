@@ -4,4 +4,4 @@
 
    
 
-사례 : <http://www.helpme119.com/>  
+사례링크 : <http://www.helpme119.com/>  
