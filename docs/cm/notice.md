@@ -1,4 +1,4 @@
-여성가족부 고시([제2020–36호](http://www.mogef.go.kr/io/ind/io_ind_s030d.do?mid=info306&div1=11&bbtSn=704988))에 의해서,    
+여성가족부 고시([제2020–36호](http://www.mogef.go.kr/io/ind/io_ind_s030d.do?mid=info306&div1=11&bbtSn=704988))에 의해서,  
 본인인증(실명 또는 휴대폰)을 지원하지 않는 
 채팅앱들은 12월 10일부터 대화서비스를 제공할 수 없습니다.   
    
