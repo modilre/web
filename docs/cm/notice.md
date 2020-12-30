@@ -9,4 +9,4 @@
 더 새로워진 채팅매니아로 찾아뵙도록 하겠습니다.  
 감사합니다.  
    
-링크 : 채팅매니아 카페(http://cafe.daum.net/chattingmania)
+링크 : [채팅매니아 카페(http://cafe.daum.net/chattingmania)](http://cafe.daum.net/chattingmania))
