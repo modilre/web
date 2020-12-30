@@ -1,12 +1,12 @@
 ## 앱 개편 및 대화 서비스 연기 안내
 
-1월1일 앱 개편 일정을 1월 10일로 연기 하였습니다.  
-(대화서비스 중단도 1월10일까지 연기될 예정입니다.)   
+앱 개편 일정을 1월 10일로 연기 하였습니다.  
    
 현재 모든 기능 구현이 완료 되었고,  
 테스트 및 편의성 개선 중입니다.  
    
-더 새로워진 채팅매니아로 찾아뵙도록 하겠습니다.  
+더 새로워진 채팅매니아로 찾아 뵙도록 하겠습니다.  
+   
 감사합니다.  
    
-링크 : [채팅매니아 카페(http://cafe.daum.net/chattingmania)](http://cafe.daum.net/chattingmania))
+링크 : [채팅매니아 카페(http://cafe.daum.net/chattingmania)](http://cafe.daum.net/chattingmania)
