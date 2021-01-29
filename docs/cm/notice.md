@@ -6,6 +6,6 @@
 (설 전에는 무조건 런칭 할 예정입니다.)  
 
 기존 앱을 두개(채팅매니아앱 + 메일앱)로 분리 중인데,  
-테스트에 많은 시간이 필요합니다.  
+생각보다 시간이 많이 드네요.  
    
 링크 : [채팅매니아 카페(http://cafe.daum.net/chattingmania)](http://cafe.daum.net/chattingmania)
