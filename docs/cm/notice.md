@@ -9,6 +9,6 @@
   
 업데이트 완료 여부는 버전(5.02)을 확인해 주세요.  
   
-![capture](/device-2021-02-05-122429.png)
+![capture](https://web.modilre.com/cm/device-2021-02-05-122429.png)
    
 링크 : [채팅매니아 카페(http://cafe.daum.net/chattingmania)](http://cafe.daum.net/chattingmania)
