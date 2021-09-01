@@ -4,5 +4,5 @@
 * 좀 더 건전해진 모습으로 찾아 뵙도록 하겠습니다.
 * 일시 중지 기간 : 2021. 09. 01 ~ 2021. 11. 01
 * 서비스 재개일 : 2021. 11. 0
-* 링크 게시판 : https://cafe.daum.net/chattingmania/1LID/56
+* 링크 게시판 : https://cafe.daum.net/chattingmania
 
